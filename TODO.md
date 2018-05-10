@@ -1,0 +1,2 @@
+- Calcular custo para a empresa (FGTS, Previdência)
+- Usar as férias de verdade do funcionário
